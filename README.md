@@ -1,16 +1,14 @@
-# pokedex_flutter
+<h1 align="center">Pokedex JS</h1>
 
-A new Flutter project.
+<p align="center">
+  <a href="https://wa.me/+5511980461548"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/juansouza9/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:juuanpablo2004@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-## Getting Started
+<p align="center">  
 
-This project is a starting point for a Flutter application.
+⭐ 
+The Pokedex project is a Flutter application aimed at improving technical knowledge in Flutter development. It provides a practical experience in creating interfaces, state management, screen navigation, and API integration to display Pokemon data. Its goal is to enhance proficiency in Flutter and mobile app development.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</br>
